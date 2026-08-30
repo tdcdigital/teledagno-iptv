@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Infantil",Paka Paka
+https://www.youtube.com/user/CanalPakapaka/live
+#EXTINF:-1 tvg-id="Etc.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ETC_%282026%29.svg/revision/latest?cb=20260808224722" group-title="Anime",ETC
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-id="Energeek.cl" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/d/d3/EnerGeekLogo.png/revision/latest?cb=20230725065852&path-prefix=es" group-title="Anime",Energeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnergeekFan.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzt4jU7ldGF_CKAjC8Q7wTE2JxPfZbMqsEAX_xLsVKJ5wx2khEwB_UcqY&s=10" group-title="Anime",Energeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/3840px-Logotipo_de_NTV.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Infantil",NTV
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
