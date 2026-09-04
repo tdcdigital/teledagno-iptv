@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/tdcdigital/teledagno-iptv/refs/heads/main/teledagno-logo.png" width="240">]
+
 # Presentación
 
 En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicación IPTV.
