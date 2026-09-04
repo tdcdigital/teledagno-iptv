@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/tdcdigital/teledagno-iptv/refs/heads/main/teledagno-logo.png" width="240">]
+<img src="https://raw.githubusercontent.com/tdcdigital/teledagno-iptv/refs/heads/main/teledagno-logo.png" width="730">
 
 # Presentación
 
