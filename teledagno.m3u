@@ -47,6 +47,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TvSenado.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/3840px-TV_Senado.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Congreso",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="Cubavisionint.cu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Cubavisi%C3%B3nIntl1999.png/revision/latest?cb=20210527005605&path-prefix=es" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Desconocido",Cubavisión Internacional
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logotipo_de_Canal_13C_HD.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Desconocido",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/13Festival_2025.svg/revision/latest?cb=20250409014611" group-title="Desconocido",13 Festival
