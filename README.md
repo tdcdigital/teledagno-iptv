@@ -48,6 +48,8 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>Global TV</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Canal N</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>TV Perú</td><td nowrap><code>Bloqueado</code></td></tr>
+    <tr><td>TV Perú Noticias</td><td nowrap><code>Bloqueado</code></td></tr>
+    <tr><td>Nacional TV Perú</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Movistar TV</td><td nowrap><code>Cerrado</code></td></tr>
     <tr><td>Movistar Eventos</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Movistar Eventos 2</td><td nowrap><code>Bloqueado</code></td></tr>
