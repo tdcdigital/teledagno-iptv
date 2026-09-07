@@ -13,7 +13,7 @@ https://www.youtube.com/user/TVPublicaArgentina/live
 https://www.youtube.com/user/encuentro/live
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Infantil",Paka Paka
 https://www.youtube.com/user/CanalPakapaka/live
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Emblema_de_Chilevisi%C3%B3n.svg/1280px-Emblema_de_Chilevisi%C3%B3n.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Público",Chilevisión
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Emblema_de_Chilevisi%C3%B3n.svg/1280px-Emblema_de_Chilevisi%C3%B3n.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/120.0.0.0 Safari/537.36 group-title="Público",Chilevisión
 http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8
 #EXTINF:-1 tvg-id="Tvn.cl" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/64/TVNCL2020.png/revision/latest?cb=20201002145326&path-prefix=es" group-title="Público",TVN
 https://iptv.bitred.cl/tvn/index.m3u8
@@ -21,7 +21,7 @@ https://iptv.bitred.cl/tvn/index.m3u8
 http://38.250.127.17:9800/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/3840px-Logotipo_de_Mega_%282020-%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Público",Mega
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Público",La Red
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/120.0.0.0 Safari/537.36 group-title="Público",La Red
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="TVPlus.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Público",TV+
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
@@ -33,7 +33,7 @@ https://www.youtube.com/c/cronicatv/live
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Meganoticias_2019.svg/revision/latest?cb=20200704034355&path-prefix=es" group-title="Noticias",Meganoticias
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
-#EXTINF:-1 tvg-id="ChvNoticias.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Noticias",CHV Noticias
+#EXTINF:-1 tvg-id="ChvNoticias.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/120.0.0.0 Safari/537.36 group-title="Noticias",CHV Noticias
 http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
@@ -83,13 +83,13 @@ https://online.coopmorteros.coop/canal50/vivo.m3u8
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTINF:-1 tvg-id="Canal99M.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIlt1f75Nu-g10cnMxvYmuoR8ZHKOY5LzjA&s" group-title="Desconocido",Canal 99 Miramar
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
-#EXTINF:-1 tvg-id="Etc.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ETC_%282026%29.svg/revision/latest?cb=20260808224722" group-title="Anime",ETC
+#EXTINF:-1 tvg-id="Etc.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ETC_%282026%29.svg/revision/latest?cb=20260808224722" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/120.0.0.0 Safari/537.36 group-title="Anime",ETC
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Energeek.cl" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/d/d3/EnerGeekLogo.png/revision/latest?cb=20230725065852&path-prefix=es" group-title="Anime",Energeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="EnergeekFan.cl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQzt4jU7ldGF_CKAjC8Q7wTE2JxPfZbMqsEAX_xLsVKJ5wx2khEwB_UcqY&s=10" group-title="Anime",Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/3840px-Logotipo_de_NTV.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Infantil",NTV
+#EXTINF:-1 tvg-id="NTV.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/3840px-Logotipo_de_NTV.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/120.0.0.0 Safari/537.36 group-title="Infantil",NTV
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="TvChile.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/3840px-Logo_de_TV_Chile.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Desconocido",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
