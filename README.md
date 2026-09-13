@@ -56,6 +56,7 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>Movistar Deportes</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Movistar Música</td><td nowrap><code>Cerrado y Bloqueado</code></td></tr>
     <tr><td>Movistar Plus</td><td nowrap><code>Bloqueado</code></td></tr>
+    <tr><td>Teleantioquia</td><td nowrap<code>http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8</code></td></tr>
     <tr><td>Crónica TV</td><td nowrap><code>https://www.youtube.com/c/cronicatv/live</code></td></tr>
     <tr><td>Canal 26</td><td nowrap><code>https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8</code></td></tr>
     <tr><td>C5N</td><td nowrap><code>https://www.youtube.com/c/c5n/live</code></td></tr>
