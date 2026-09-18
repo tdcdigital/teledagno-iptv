@@ -139,3 +139,14 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>Canal 99 Miramar</td><td nowrap><code>https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8</code></td></tr>
   </tbody>
 </table>
+
+### Canales Ficticios Disponibles
+
+<table>
+  <thead>
+    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>MRAG50 y Susie Haltmann Channel</td><td nowrap><code>Sin URL</code></td></tr>
+  </tbody>
+</table>
