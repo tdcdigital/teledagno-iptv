@@ -2,17 +2,13 @@
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Público",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",TN
-https://www.youtube.com/c/todonoticias/live
+http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Publico",El Trece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Publico",El Nueve
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 #EXTINF:-1 tvg-id="Televisionpublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Público",TV Publica
-https://www.youtube.com/user/TVPublicaArgentina/live
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/3840px-Logo_del_canal_Encuentro.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Publico",Encuentro
-https://www.youtube.com/user/encuentro/live
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Infantil",Paka Paka
-https://www.youtube.com/user/CanalPakapaka/live
+https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="Chilevision.cl" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Emblema_de_Chilevisi%C3%B3n.svg/1280px-Emblema_de_Chilevisi%C3%B3n.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/120.0.0.0 Safari/537.36 group-title="Público",Chilevisión
 http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8
 #EXTINF:-1 tvg-id="Tvn.cl" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/64/TVNCL2020.png/revision/latest?cb=20201002145326&path-prefix=es" group-title="Público",TVN
@@ -27,8 +23,6 @@ https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/laredhdchi/vxfmt=dp/playlis
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/3840px-Canal_26_logo_%282022%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="Crónicatelevisión.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Noticias",Crónica TV
-https://www.youtube.com/c/cronicatv/live
 #EXTINF:-1 tvg-id="T13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/T13_En_Vivo_2023.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="Noticias",T13 En vivo
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Meganoticias_2019.svg/revision/latest?cb=20200704034355&path-prefix=es" group-title="Noticias",Meganoticias
@@ -37,8 +31,6 @@ https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/3840px-A24_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/1920px-C5N_2017_Alternate.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",C5N
-https://www.youtube.com/c/c5n/live
 #EXTINF:-1 tvg-id="RussiaToday.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/3840px-Russia-today-logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",RT
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/3840px-Deutsche_Welle_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Noticias",DW
