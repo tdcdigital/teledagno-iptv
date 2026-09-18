@@ -144,7 +144,7 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
 
 <table>
   <thead>
-    <tr><th align="left">Nombre de lista</th><th align="left">URL de lista</th></tr>
+    <tr><th align="left">Nombre del Canal</th><th align="left">URL del Canal</th></tr>
   </thead>
   <tbody>
     <tr><td>MRAG50 y Susie Haltmann Channel</td><td nowrap><code>Sin URL</code></td></tr>
