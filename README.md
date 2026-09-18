@@ -93,17 +93,7 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>Canal IPE</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>USPM TV</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>USPM TV Musica</td><td nowrap><code>Bloqueado</code></td></tr>
-    <tr><td>Universal TV Latinoamérica</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>USA Network Latinoamérica</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>Space Colombia</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>Space Perú</td><td nowrap><code>Bloqueado</code></td></tr>
-    <tr><td>Space Chile</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>Cinemax</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>TNT Colombia</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>TNT Series Colombia</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>CineCanal Colombia</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>CineCanal Perú</td><td nowrap><code>Bloqueado</code></td></tr>
-    <tr><td>CineCanal Pacífico</td><td nowrap><code>Sin URL</code></td></tr>
+    <tr><td>HBO Xtreme</td><td nowrap><code>http://200.115.120.1:8000/play/ca138/index.m3u8</code></td></tr>
     <tr><td>El Gourmet</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>Film&Arts</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>Europa Europa</td><td nowrap><code>Sin URL</code></td></tr>
