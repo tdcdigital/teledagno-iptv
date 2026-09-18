@@ -103,7 +103,9 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Música",Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled " group-title="General",Teleantioquia
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Teleantioquia-2024Nuevo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled " group-title="General",Teleantioquia
 http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo=" https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/3840px-Logotipo_de_Telemedell%C3%ADn.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail " http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telemedellin
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Logotipo_de_Telemedell%C3%ADn.png/3840px-Logotipo_de_Telemedell%C3%ADn.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail " http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telemedellin
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme.us" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/3840px-HBO_Xtreme.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Películas",HBO Xtreme
+http://200.115.120.1:8000/play/ca138/index.m3u8
