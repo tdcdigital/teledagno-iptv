@@ -27,7 +27,7 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
   <tbody>
     <tr><td>América TV</td><td nowrap><code>https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8</code></td></tr>
     <tr><td>América TV internacional</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>Todo Noticias</td><td nowrap><code>https://www.youtube.com/c/todonoticias/live</code></td></tr>
+    <tr><td>Todo Noticias</td><td nowrap><code>http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8</code></td></tr>
     <tr><td>Telefe</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Telefe Noticias</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Telefe internacional</td><td nowrap><code>Bloqueado</code></td></tr>
@@ -36,7 +36,8 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>El Ocho</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>El Once</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>El Nueve</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>Encuentro</td><td nowrap><code>https://www.youtube.com/user/encuentro/live</code></td></tr>
+    <tr><td>TV Pública</td><td nowrap><code>https://nd106.republicaservers.com/hls/c8094/index.m3u8</code></td></tr>
+    <tr><td>Encuentro</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>América TV Perú</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Latina</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>Latina Noticias</td><td nowrap><code>Bloqueado</code></td></tr>
@@ -59,9 +60,9 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>Teleantioquia</td><td nowrap><code>http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8</code></td></tr>
     <tr><td>TeleMedellín</td><td nowrap><code>https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8</code></td></tr>
     <tr><td>Canal CNC Medellín</td><td nowrap><code>Sin URL</code></td></tr>
-    <tr><td>Crónica TV</td><td nowrap><code>https://www.youtube.com/c/cronicatv/live</code></td></tr>
+    <tr><td>Crónica TV</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>Canal 26</td><td nowrap><code>https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8</code></td></tr>
-    <tr><td>C5N</td><td nowrap><code>https://www.youtube.com/c/c5n/live</code></td></tr>
+    <tr><td>C5N</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>A24</td><td nowrap><code>https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true</code></td></tr>
     <tr><td>Canal Chilevisión Noticias</td><td nowrap><code>http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8</code></td></tr>
     <tr><td>T13 En vivo</td><td nowrap><code>https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8</code></td></tr>
@@ -89,7 +90,7 @@ En Teledagno podrás disfrutar de la TV + Radio Gratis a través de tu aplicaci�
     <tr><td>ETC</td><td nowrap><code>https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD</code></td></tr>
     <tr><td>NTV</td><td nowrap><code>https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD</code></td></tr>
     <tr><td>TV Educa Chile</td><td nowrap><code>Cerrado y Bloqueado</code></td></tr>
-    <tr><td>Paka Paka</td><td nowrap><code>https://www.youtube.com/user/CanalPakapaka/live</code></td></tr>
+    <tr><td>Paka Paka</td><td nowrap><code>Sin URL</code></td></tr>
     <tr><td>Canal IPE</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>USPM TV</td><td nowrap><code>Bloqueado</code></td></tr>
     <tr><td>USPM TV Musica</td><td nowrap><code>Bloqueado</code></td></tr>
