@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal10MDP.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Desconocido",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="Canal79MDP.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRM-UjSafTQYFEJxXziyJBgpWWWy7P3Fu6xZxIdtjdiha30VrbT1vdGWbd&s=10" group-title="Desconocido",Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
